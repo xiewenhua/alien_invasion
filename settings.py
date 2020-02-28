@@ -14,13 +14,13 @@ class Settings():
 		self.ship_limit=3
 		
 		# 子弹设置
-		self.bullet_width=500
+		self.bullet_width=10
 		self.bullet_height=15
 		self.bullet_color=(60,60,60)
 		self.bullets_allowed=3
 		
 		# 外星人设置
-		self.fleet_drop_speed=20
+		self.fleet_drop_speed=10
 		
 		# 以什么样的速度加快游戏的节奏
 		self.speedup_scale=1.1
@@ -40,7 +40,7 @@ class Settings():
 		self.fleet_direction=1
 		
 		# 每击落一个外星人得多少点
-		self.alien_points=5000
+		self.alien_points=50
 		
 	def increase_speed(self):
 		"""提高速度设置和外星人点数"""
