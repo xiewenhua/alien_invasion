@@ -12,6 +12,7 @@ python alien_invasion.py
 ## 游戏演示
 
 ![外星人入侵演示.gif](https://i.loli.net/2020/02/28/wkXCeUTnPYxjBc6.gif)
+图片卡顿？[点此查看](https://i.loli.net/2020/02/28/wkXCeUTnPYxjBc6.gif)
 
 ## 是什么？
 这是一款类主要使用Pygame 包来开发似于小时候玩过的飞机大战的2D 游戏，它在玩家每消灭一群向下移动的外星人后，都将玩家提高一个等级；而等级越高，游戏的节奏就越快，难度越大。
